@@ -1,6 +1,8 @@
 # PNaRT
 Petri-Nets@Run.Time
 
+Use the "Reference Net Editor" (RENEW), www.renew.de (version >= 2.5)
+
 wfnstudy.rnw - The workflow net with stochastic annotations
 
 simloop2.rnw - Simulates different N_\alpha(\beta) variants of the workflow to obtain an estimation of the reward.
